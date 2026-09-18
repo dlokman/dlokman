@@ -12,7 +12,10 @@ I have also served as a Lead Angular developer in my previous projects. I work e
 - **[Angular Frontend Chatbot](https://github.com/dlokman/Angular-22-Project-With-Cognito)** — Angular 22, TailwindCSS, Copilotkit, Angular Auth OIDC Client & AWS Managed Login via Cognito
 
 ## Tech
-**FrontEnd: Angular 22, TailwindCSS, Copilotkit**
+- **FrontEnd**: Angular 22, TailwindCSS, Copilotkit
+- **Backend (AI Agent Hosting)**: Amazon Bedrock AgentCore
+- **Security: AWS Cognito, Angular Auth OIDC Client & AWS Managed Login**
+
 **Strands Agents SDK · Amazon Bedrock AgentCore · Amazon Bedrock Knowledge Bases · Amazon OpenSearch Serverless (NextGen) ·       ···········                 .NET · TypeScript · React · JavaScript · Python · SQL · AWS · EF Core · SQLite · Git · Docker · Claude Code**
 
 ## Certifications
