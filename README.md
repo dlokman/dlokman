@@ -1,6 +1,6 @@
 ## Hi, I'm Danial 👋
 
-**Senior/Lead AI Engineer with Angular & .Net**
+**Senior/Lead AI Engineer with Angular, .Net & Python**
 
 I have over 14 years of experience developing enterprise applications in the USA. My current specialization is in AWS GenAI & Agentic AI with Angular & .Net. 
 
