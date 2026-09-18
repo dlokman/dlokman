@@ -17,7 +17,7 @@ I have also served as a Lead Angular Developer on multiple enterprise projects. 
 - **Backend (AI Agent Framework):** Strands Agents SDK using Python
 - **Backend (RAG):** Amazon Bedrock Knowledge Bases
 - **Backend (Vector Store):** Amazon OpenSearch Serverless
-- **Security:** AWS Cognito, Angular Auth OIDC Client & AWS Managed Login
+- **Security:** AWS Cognito, Angular Auth OIDC Client, AWS Managed Login,  OAuth 2.0, OpenID Connect (OIDC), JWT & AWS IAM
 - **AI Coding Tools:** ChatGPT, Codex, Claude Code
 
 ## Certifications
