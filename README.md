@@ -7,7 +7,7 @@ I have over 14 years of experience in developing enterprise applications in the 
 I have also served as a Lead Angular developer in my previous projects. I work equally good with both technical and non-technical managers. My previous clients include LPL Financial, Elevance Health, Shell, Energy Transfer and United Airlines, among others. 
 
 ## Featured Projects
-- **[FlightBookingAgent](https://github.com/dlokman/SingleAgent-With-AgentCore-Memory-And-Gateway-Demo) (Architecture Diagram Inside)**  - Amazon Bedrock AgentCore, AgentCore Memory, AgentCore Gateway, AgentCore Evaluations, Strands Agents SDK, AWS Cognito, Lambda, SSM Parameters, Python
+- **[FlightBookingAgent](https://github.com/dlokman/SingleAgent-With-AgentCore-Memory-And-Gateway-Demo)**(Architecture Diagram Inside)  - Amazon Bedrock AgentCore, AgentCore Memory, AgentCore Gateway, AgentCore Evaluations, Strands Agents SDK, AWS Cognito, Lambda, SSM Parameters, Python
 - **[TrainTally](https://github.com/kalebhings/TrainTally-web)** — Ticket to Ride score tracker being rebuilt in React + TypeScript with an AWS backend.
 - **[AI Knowledge Graph Q&A](https://github.com/kalebhings/Digital-Liahona)** — Python/Neo4j/LLM Q&A system using LlamaIndex and Ollama.
 
