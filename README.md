@@ -21,8 +21,11 @@ I have also served as a Lead Angular developer in my previous projects. I work e
 - **AI Coding Tools:** ChatGPT, OpenAI Codex, Claude Code
 
 ## Certifications
-
-**AWS Generative AI Developer – Professional · AWS Machine Learning – Specialty · AWS Solutions Architect – Associate**
+- **AWS Certified Generative AI Developer - Professional** 
+- **AWS Certified Solutions Architect - Professional**
+- **AWS Certified AI Practitioner**
+- **AWS Certified Solutions Architect - Associate**
+- **AWS Certified Developer - Associate**
 
 [LinkedIn](https://www.linkedin.com/in/danial-lokman/)
 
