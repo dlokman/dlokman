@@ -9,7 +9,7 @@ I have also served as a Lead Angular Developer on multiple enterprise projects. 
 ## Featured Projects
 - **[RestaurantAgent](https://github.com/dlokman/MultiAgent-With-RAG-Demo)** - **Multi-Agent with RAG project (Architecture Diagram Inside)** comprising of an Orchestrator Agent and 2 Sub-Agents utilizing AgentCore, Strands Agents SDK, Amazon OpenSearch Serverless (VectorDB), Amazon Bedrock Knowledge Bases(RAG), DynamoDB, S3, AWS Cognito(Authorization Code flow with PKCE), Python
 - **[FlightBookingAgent](https://github.com/dlokman/SingleAgent-With-AgentCore-Memory-And-Gateway-Demo)** - **Single Agent Chatbot (Architecture Diagram Inside)** utilizing AgentCore Runtime, AgentCore Memory, AgentCore Gateway, AgentCore Evaluations, Strands Agents SDK, AWS Cognito(Authorization Code flow with PKCE), Lambda, SSM Parameters, Python
-- **[Angular Frontend UI](https://github.com/dlokman/Angular-22-Project-With-Cognito)** - **FrontEnd UI for both RestaurantAgent & FlightBookingAgent (UI Snapshots Inside)** utilizing Angular 22, TailwindCSS, Copilotkit, Angular Auth OIDC Client & AWS Managed Login via Cognito
+- **[Angular FrontEnd UI](https://github.com/dlokman/Angular-22-Project-With-Cognito)** - **FrontEnd UI for both RestaurantAgent & FlightBookingAgent (UI Snapshots Inside)** utilizing Angular 22, TailwindCSS, Copilotkit, Angular Auth OIDC Client & AWS Managed Login via Cognito
 
 ## Tech
 - **FrontEnd:** Angular 22, Typescript, TailwindCSS, Copilotkit
