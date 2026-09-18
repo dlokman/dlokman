@@ -1,6 +1,8 @@
 ## Hi, I'm Danial 👋
 
+**Senior/Lead AI Engineer with Angular & .Net**
 
+I have
 
 <!--
 **dlokman/dlokman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
