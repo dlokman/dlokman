@@ -11,7 +11,15 @@ I have also served as a Lead Angular developer in my previous projects. I work e
 - **[FlightBookingAgent](https://github.com/dlokman/SingleAgent-With-AgentCore-Memory-And-Gateway-Demo) (Architecture Diagram Inside)**  - Single Agent Chatbot utilizing AgentCore Runtime, AgentCore Memory, AgentCore Gateway, AgentCore Evaluations, Strands Agents SDK, AWS Cognito(Authorization Code flow with PKCE), Lambda, SSM Parameters, Python
 - **[Angular Frontend Chatbot](https://github.com/dlokman/Angular-22-Project-With-Cognito)** — Angular 22, TailwindCSS, Copilotkit, Angular Auth OIDC Client & AWS Managed Login via Cognito
 
+## Tech
+**FrontEnd: Angular 22, TailwindCSS, Copilotkit**
+**Strands Agents SDK · Amazon Bedrock AgentCore · Amazon Bedrock Knowledge Bases · Amazon OpenSearch Serverless (NextGen) ·       ···········                 .NET · TypeScript · React · JavaScript · Python · SQL · AWS · EF Core · SQLite · Git · Docker · Claude Code**
 
+## Certifications
+
+**AWS Generative AI Developer – Professional · AWS Machine Learning – Specialty · AWS Solutions Architect – Associate**
+
+[LinkedIn](https://www.linkedin.com/in/danial-lokman/)
 
 <!--
 **dlokman/dlokman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
