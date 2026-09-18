@@ -2,7 +2,7 @@
 
 **Senior/Lead AI Engineer with Angular, .Net & Python**
 
-I have over 14 years of experience developing enterprise applications in the USA. My current specialization is in AWS GenAI & Agentic AI with Angular & .Net. 
+I have over 14 years of experience developing enterprise applications in the USA. My current specialization is in AWS GenAI & Agentic AI with Angular, .Net & Python. 
 
 I have also served as a Lead Angular Developer on multiple enterprise projects. I work equally well with both technical and non-technical managers. My previous clients include LPL Financial, Elevance Health, Shell, Energy Transfer and United Airlines, among others. 
 
