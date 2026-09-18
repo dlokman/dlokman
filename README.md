@@ -18,7 +18,7 @@ I have also served as a Lead Angular developer in my previous projects. I work e
 - **Backend (RAG):** Amazon Bedrock Knowledge Bases
 - **Backend (Vector Store):** Amazon OpenSearch Serverless
 - **Security:** AWS Cognito, Angular Auth OIDC Client & AWS Managed Login
-- **AI Coding Tools:** ChatGPT, OpenAI Codex, Claude Code
+- **AI Coding Tools:** ChatGPT, Codex, Claude Code
 
 ## Certifications
 - **AWS Certified Generative AI Developer - Professional** 
